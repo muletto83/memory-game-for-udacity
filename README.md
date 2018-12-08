@@ -1,7 +1,12 @@
 # Memory Game Project
+Hi there friends at Udacity and ATT&T !:)
+
 This project is from Antimo William Esposito.
+
+ The project is hosted with GitHub Pages at https://muletto83.github.io/memory-game-for-udacity/
+ 
 **Note this project was made before using Git and GitHub so it doesn't multiple commits**
-Hi there friends at Udacity !:) 
+
 
 ## Table of Contents
 * [Instructions](#Instructions)
@@ -28,12 +33,12 @@ Did you get 5 stars?
 * Move Counter
 
 # Folder-Description
-You can vision the final version of the files clicking the links below: 
+You can vision the final version of the files clicking the links below:
 * [HTML]
 * [JS]
 * [CSS]
 
-For the old version of the file you can vision them into their folders 
+For the old version of the file you can vision them into their folders
 * [Folder with Previous JS File]
 * [Folder with previous CSS files]
 * [Folder with previous HTML Files]
@@ -52,7 +57,7 @@ Love is an important component of coding :)
 * HTML
 
 **APIs/Libraries:**
-* Google Fonts - Font library 
+* Google Fonts - Font library
 * Font Awesome - Font and icon toolkit
 
 # Special_Mention
@@ -64,4 +69,3 @@ I dind't use GIT for the project. Just a temporary thing, I will in the future !
 [JS]: <./js/app.js>
 [CSS]: <./css/app.css>
 [HTML]: <./index.html>
-
